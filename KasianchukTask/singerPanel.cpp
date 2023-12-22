@@ -1,0 +1,2 @@
+﻿#include "singerPanel.h"
+
